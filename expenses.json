@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date": "2026-08-31",
+        "amount": 250.0,
+        "category": "Food",
+        "description": "Lunch"
+    },
+    {
+        "id": 2,
+        "date": "2026-08-31",
+        "amount": 120.0,
+        "category": "Travel",
+        "description": "Auto fare"
+    }
+]
